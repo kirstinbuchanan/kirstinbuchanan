@@ -2,9 +2,9 @@
 
 I'm a full-stack developer with a keen interest in the back-end and producing clean front-end functionality. Most recently I've been enjoying creating projects with Next.js and GraphQL, and exploring React Native with Expo.
 
-#### Currently Working On
+#### 💻
 
-Git Social - A platform for developers to ```git``` together and collaborate on projects
+Software Engineer @ Codat
 
 #### Interests
 
