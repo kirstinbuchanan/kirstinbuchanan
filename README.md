@@ -4,7 +4,7 @@
 
 #
 
-- 🎨 Front End Engineer @ SEDNA
+- 🎨 Front End Engineer @ Lilli
 - 🌱 Exploring front end frameworks like Vue.js and languages including Kotlin
 - ✨ Working with the [FFXIVAPI](https://github.com/xivapi) to keep track of my group's statistics and other geeky things 💪🏼
 
